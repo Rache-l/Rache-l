@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rache-l
 - 👀 I’m interested in data analysis 
-- 🌱 I’m currently learning how to CI/CD
+- 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on GitHub 
 - 📫 How to reach me __azmirah__
 
